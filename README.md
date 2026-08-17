@@ -2,7 +2,7 @@
 
 ## Project Note
 
-本项目基于原始代码仓库：github.com/Darlig/Sound-separation-project
+本项目基于原始代码仓库：github.com/Darlig/Sound-separation-project/tree/causal
 我在研究实习期间参与了该项目，主要负责数据处理、模型训练与评估以及相关的实验工作。建立此仓库旨在展示个人研究成果并留存项目文档。
 
 ---
