@@ -1,0 +1,30 @@
+# Large datasets
+dataset/3class_speech_concert_bird_20260424/train_sources.csv
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Outputs
+outputs/
+checkpoints/
+logs/
+runs/
+
+# Audio data
+*.wav
+*.flac
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
